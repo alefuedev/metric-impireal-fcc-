@@ -1,0 +1,28 @@
+body {
+  background-color: #5ea3a3;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+h1,
+h3,h2 {
+  color: white;
+}
+
+ol {
+  color: white;
+  font-size: 1em;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
+code {
+  color: white;
+}
+
+input:nth-child(2) {
+  background-color: #add2c9;
+  border: none;
+  border-radius: 20px;
+  color: white;
+  height: 2em;
+  font-size: 1em;
+}
